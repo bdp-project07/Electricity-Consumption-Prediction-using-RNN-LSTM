@@ -19,3 +19,10 @@ Electricity consumption forecasting is of paramount importance for energy provid
 5. **Model Evaluation and Validation**: Employ appropriate evaluation metrics to assess the predictive capabilities of the RNN and LSTM models. Utilize techniques such as cross-validation and time-based validation to ensure the models generalize well to unseen data.
 
 The Electricity Consumption Prediction using RNN & LSTM project has the potential to transform the energy sector's approach to managing electricity demand. By leveraging advanced deep learning methodologies, the project aims to provide accurate, timely, and actionable predictions that empower energy providers and grid operators to optimize resource allocation, reduce costs, and enhance grid stability.
+
+## About Dataset
+The dataset source comes from the Indonesian State Electricity Company (PT. PLN Indonesia) in 2019.<br>
+**Note: the raw data in this repository is only a sample (not the entire data used in this project)*
+
+## Summary of results
+The best model that was obtained was LSTM (with several parameter tuning) with a MAPE score of +- 0.058
